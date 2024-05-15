@@ -19,6 +19,9 @@ https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/ses/c
 json python
 https://docs.python.org/3/library/json.html
 
+calling lambda
+https://docs.aws.amazon.com/lambda/latest/dg/python-context.html
+
 
 terraform lamda resource
 https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/lambda_function#argument-reference
