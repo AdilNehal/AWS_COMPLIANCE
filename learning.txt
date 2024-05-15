@@ -1,0 +1,30 @@
+how to get env var in python
+https://stackoverflow.com/questions/4906977/how-can-i-access-environment-variables-in-python
+
+get s3 object from boto client
+https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/s3.html
+https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/s3/client/get_object.html
+
+
+filter non compliant ec2 via boto ec2 client
+https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/ec2.html
+https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/ec2/client/describe_instances.html
+https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/ec2/client/terminate_instances.html
+
+send email using boto client
+https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/ses.html
+https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/ses/client/send_email.html
+
+
+json python
+https://docs.python.org/3/library/json.html
+
+
+terraform lamda resource
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/lambda_function#argument-reference
+
+cloudwatch event rule
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/cloudwatch_event_rule
+
+lambda permission
+https://registry.terraform.io/providers/hashicorp/aws/3.29.1/docs/resources/lambda_permission
